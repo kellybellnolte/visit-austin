@@ -1,0 +1,450 @@
+{
+    "main":[
+        {
+            "name": "Things To Do",
+            "id": "things-to-do",
+            "description": "Things to do in Austin",
+            "image":"https://images.unsplash.com/photo-1626051856210-88e3e342fa3c",
+            "alt":"Kayakers and paddleboarders on the Colorado River photo by Adrian N"
+        },
+        {
+            "name": "Helpful Info",
+            "id": "helpful-info",
+            "description": "Helpful Information while traveling to Austin",
+            "image":"https://images.pexels.com/photos/5225282/pexels-photo-5225282.jpeg",
+            "alt":"Couple searching route in map while having coffee and croissant photo by Samson Katt"
+        }
+    ],
+    "activities":[
+        {
+            "name": "Adventure",
+            "id": "adventure",
+            "image":"",
+            "alt":"",
+            "description":"Adventurous things to do in Austin",
+            "resources": [
+                {
+                  "name": "Camping",
+                  "id": "camping",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                    "There are some great camping areas around Austin"
+                },
+                {
+                  "name": "Biking",
+                  "id": "biking",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "There are some great biking areas around Austin"
+                },
+                {
+                  "name": "Hiking",
+                  "id": "hiking",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "There are some great hiking areas around Austin"
+                },
+                {
+                  "name": "Parks",
+                  "id": "parks",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "There are some great parks around Austin"
+                },
+                {
+                  "name": "Water Activities",
+                  "id": "water-activities",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                    "Water is a great way to cool down in the Texas heat",
+                    "resources": [
+                      {
+                        "name": "Kayaking",
+                        "id": "kayaking",
+                        "image":"",
+                        "alt":"",
+                        "description":
+                        "Kayaking is a a fun way to see the skyline"
+                      },
+                      {
+                        "name": "Boating",
+                        "id": "boating",
+                        "image":"",
+                        "alt":"",
+                        "description":
+                        "There are some great boating areas around Austin"
+                      },
+                      {
+                        "name": "Tubing",
+                        "id": "tubing",
+                        "image":"",
+                        "alt":"",
+                        "description":
+                        "There are some great places to tube areas around Austin"
+                      },
+                      {
+                        "name": "Swimming Holes",
+                        "id": "swimming-holes",
+                        "image":"https://images.unsplash.com/photo-1563828568124-f800803ba13c",
+                        "alt":"Barton Spring Pool in Austin photo by Alex George",
+                        "description":
+                        "Swimming holes are a Texas Tradition"
+                      }
+                    ]
+                }
+              ]
+          },
+          {
+            "name": "Culture",
+            "id": "culture",
+            "image":"",
+            "alt":"",
+            "description":
+            "There is lots of Texas Culture to explore",
+              "resources": [
+                {
+                  "name": "Museums",
+                  "id": "museums",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "There are some great museums around Austin"
+                },
+                {
+                  "name": "Architecture",
+                  "id": "architecture",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "There are some great buildings and scupltures around Austin"
+                }
+            ]
+          },
+          {
+            "name": "Live Music",
+            "id": "live-music",
+            "image":"",
+            "alt":"",
+            "description":
+            "Austin is the live music capital of the world",
+              "resources": [
+                {
+                  "name": "Clubs",
+                  "id": "clubs",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "There are some great clubs around Austin"
+                },
+                {
+                  "name": "SXSW",
+                  "id": "sxsw",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "SXSW is a huge festival in Austin"
+                },
+                {
+                  "name": "ACL Festival",
+                  "id": "acl",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "ACL is a huge music festival in Austin"
+                }
+            ]
+          },
+          {
+            "name": "Food and Drink",
+            "id": "food-and-drink",
+            "image":"",
+            "alt":"",
+            "description":
+            "There is great food in Austin",
+              "resources": [
+                {
+                  "name": "Food Trucks",
+                  "id": "food-trucks",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "There are some great food trucks around Austin"
+                },
+                {
+                  "name": "Breweries",
+                  "id": "breweries",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "There are some great breweries around Austin"
+                },
+                {
+                  "name": "Distilleries",
+                  "id": "distilleries",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "There are some great distilleries around Austin"
+                },
+                {
+                  "name": "Wineries",
+                  "id": "wineries",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "There are some great wineries around Austin"
+                },
+                {
+                  "name": "Restraurants",
+                  "id": "retaurants",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "There are some great restaurants around Austin"
+                }
+            ]
+          },
+          {
+            "name": "Sporting Events",
+            "id": "sporting-events",
+            "image":"",
+            "alt":"",
+            "description":
+            "Sports around Austin",
+              "resources": [
+                {
+                  "name": "Soccer- Austin FC",
+                  "id": "soccer",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "Soccer is finally here!"
+                },
+                {
+                  "name": "University of Texas",
+                  "id": "ut-sports",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "UT has all the sports"
+                },
+                {
+                  "name": "Racing - Circuit of the Americas",
+                  "id": "racing",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "Formula Racing brings in folks all over the world."
+                },
+                {
+                  "name": "Baseball - Round Rock Express",
+                  "id": "baseball",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "Minor League baseball"
+                },
+                {
+                  "name": "Hockey - Texas Stars",
+                  "id": "hockey",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "Ice Hockey to get out of the heat"
+                }
+            ]
+          },
+          {
+            "name": "Tours",
+            "id": "tours",
+            "image":"",
+            "alt":"",
+            "description":
+            "Tours are a great way to see Austin",
+              "resources": [
+                {
+                  "name": "Cruises",
+                  "id": "cruises",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "There are some fun cruises to see Austin"
+                },
+                {
+                  "name": "Segway and Walking Tours",
+                  "id": "city-tours",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "There are some fun segway and walking tours to see Austin"
+                },
+                {
+                  "name": "Wine and Spirit Tours",
+                  "id": "drink-tours",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "There are some fun drinking tours in Austin"
+                }
+            ]
+          },
+          {
+            "name": "Shopping",
+            "id": "shopping",
+            "image":"",
+            "alt":"",
+            "description":
+            "There are some great places to shop around Austin",
+              "resources": [
+                {
+                  "name": "Domain",
+                  "id": "domain-shopping",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "The Domain is a high class shopping district"
+                },
+                {
+                  "name": "South Congress",
+                  "id": "s-congress-shopping",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "South Congress is a fun querky place to shop local businesses!"
+                }
+            ]
+          },
+          {
+            "name": "Weekend Trips",
+            "id": "weekend-trips",
+            "image":"",
+            "alt":"",
+            "description":
+            "There are some great weekend trips to travel to near Austin",
+              "resources": [
+                {
+                  "name": "San Antonio",
+                  "id": "san-antonio",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "San Antonio is a vibrant city with a great riverwalk"
+                },
+                {
+                  "name": "Hill Country",
+                  "id": "hill-country",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "The Hill Country is a beautiful with full of wine and spirits to enjoy"
+                },
+                {
+                  "name": "State Parks",
+                  "id": "state-parks",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "There are some great state parks to enjoy near Austin"
+                }
+            ]
+          }
+    ],
+    "information":[
+        {
+            "name": "Seasons",
+            "id": "seasons",
+            "image":"",
+            "alt":"",
+            "description":
+              "What is the weather like in Austin?",
+              "info":"The Seasons in Austin vary. The summers are hot, but the winters are typically mild. The spring and fall can be wet."
+          },
+          {
+            "name": "Transportation",
+            "id": "transportation",
+            "image":"",
+            "alt":"",
+            "description":
+            "How to get around Austin"
+          },
+          {
+            "name": "Accomodations",
+            "id": "accomodations",
+            "image":"",
+            "alt":"",
+            "description":
+            "Places to stay in Austin"
+          },
+          {
+            "name": "Annual Events",
+            "id": "annual-events",
+            "image":"",
+            "alt":"",
+            "description":
+            "Annual Events in Austin"
+          },
+          {
+            "name": "Neighborhoods",
+            "id": "neighborhoods",
+            "image":"",
+            "alt":"",
+            "description":
+            "Different neighborhoods to check out in Austin",
+              "resources": [
+                {
+                  "name": "South Congress",
+                  "id": "south-congress",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "South Congress has a funky vibe with lots of local flavor"
+                },
+                {
+                  "name": "Downtown",
+                  "id": "downtown",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "Downtown is growing rapidly"
+                },
+                {
+                  "name": "UT Campus",
+                  "id": "ut-campus",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "Visit the UT Campus to see what student life if like"
+                },
+                {
+                  "name": "Domain",
+                  "id": "domain",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "Shoping and Dining to live like the royals"
+                },
+                {
+                  "name": "East Austin",
+                  "id": "east-austin",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "Local flavor with tons of great food"
+                },
+                {
+                  "name": "South Lamar",
+                  "id": "south-austin",
+                  "image":"",
+                  "alt":"",
+                  "description":
+                  "Up and coming this area is quickly becoming a new favourite."
+                }
+            ]
+          }
+    ]
+}
